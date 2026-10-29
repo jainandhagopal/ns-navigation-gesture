@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation Gesture</string>
+    <string name="app_tagline">Smooth Edge Swipe Navigation</string>
+    <string name="accessibility_service_description">Navigation Gesture enables smooth left, right, and bottom edge swipe navigation across all apps.</string>
+</resources>
